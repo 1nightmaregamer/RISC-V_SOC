@@ -1,0 +1,5 @@
+So here's complete spec 
+3 core 6 thread l1 cache 256kb l2 6mb l3 16mb 
+Riscv rv32-64i that is rv32-64i m,a,f,d,q,c,b,p instruction sets required to run linux
+65nm io for pcie 3.0 ddr4 support and USB 3,2 
+1 full x16 3.o pcie rail and 2 pcie x8 3.0 rails for chipset or something 
